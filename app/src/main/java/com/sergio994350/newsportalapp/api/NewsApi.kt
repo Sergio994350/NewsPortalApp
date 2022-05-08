@@ -1,6 +1,6 @@
 package com.sergio994350.newsportalapp.api
 
-import com.sergio994350.newsportalapp.NewsResponse
+import com.sergio994350.newsportalapp.models.NewsResponse
 import com.sergio994350.newsportalapp.util.Constants.Companion.API_KEY
 import retrofit2.Response
 import retrofit2.http.GET
